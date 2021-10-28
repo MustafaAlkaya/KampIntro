@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictinaryHw", "MyDictinaryHw\MyDictinaryHw.csproj", "{F46E1F98-D19A-49AD-87C7-B998A7A629C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop2", "Oop2\Oop2.csproj", "{B079984C-251E-4662-946C-5B8BA575B76E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop2", "Oop2\Oop2.csproj", "{B079984C-251E-4662-946C-5B8BA575B76E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{06311938-B1EB-40CE-A906-04F076E67EDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{06311938-B1EB-40CE-A906-04F076E67EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{5956C86D-66E2-4DC6-9F24-6749476B3F85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{06311938-B1EB-40CE-A906-04F076E67EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06311938-B1EB-40CE-A906-04F076E67EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06311938-B1EB-40CE-A906-04F076E67EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5956C86D-66E2-4DC6-9F24-6749476B3F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5956C86D-66E2-4DC6-9F24-6749476B3F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5956C86D-66E2-4DC6-9F24-6749476B3F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5956C86D-66E2-4DC6-9F24-6749476B3F85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
